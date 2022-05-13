@@ -1,6 +1,6 @@
-# BackGet (SERVER) [![em construção ](https://img.shields.io/badge/em_construção_-2ea44f)](https://)
+# BackGet
 
-Aplicação ...
+Server for website users feedback
 
 ## Tools
 
@@ -36,6 +36,6 @@ npm run dev
 npm run build
 ```
 
-# Contact 
+## Contact
 
-[Envie-me uma mensagem](mailto:programador.leandrolopes@gmail.com "Envie-me uma mensagem") para mais informações sobre o <b>BackGet (SERVER)</b>.
+[Send me a message](mailto:programador.leandrolopes@gmail.com "Send me a message") for more information about <b>BackGet</b>.
