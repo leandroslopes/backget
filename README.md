@@ -7,12 +7,17 @@ Website users feedback
 ![Home 1](home_screen.png?raw=true "Home 1")
 ![Home 2](home_screen_2.png?raw=true "Home 2")
 
+## Deploy
+
+* <a href="https://vercel.com/" target="_blank">FRONT-END (web)</a>
+* <a href="https://railway.app/" target="_blank">BACK-END (server)</a>
+
 ## README.md 
 
 * <a href="https://github.com/leandroslopes/backget/blob/main/web/README.md" target="_blank">FRONT-END (web)</a>
 * <a href="https://github.com/leandroslopes/backget/blob/main/server/README.md" target="_blank">BACK-END (server)</a>
 
-# Demo
+## Demo
 
 * <a href="https://backget.vercel.app/" target="_blank">BackGet</a>
 
