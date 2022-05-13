@@ -9,13 +9,13 @@ Website users feedback
 
 ## README.md 
 
-* FRONT-END (web) 
-* BACK-END (server)
+* <a href="https://github.com/leandroslopes/backget/blob/main/web/README.md" target="_blank">FRONT-END (web)</a>
+* <a href="https://github.com/leandroslopes/backget/blob/main/server/README.md" target="_blank">BACK-END (server)</a>
 
-# DEMO
+# Demo
 
-* [BackGet](https://backget.vercel.app/ "BackGet")
+* <a href="https://backget.vercel.app/" target="_blank">BackGet</a>
 
-## CONTACT
+## Contact
 
 [Send me a message](mailto:programador.leandrolopes@gmail.com "Send me a message") for more information about <b>BackGet</b>.
